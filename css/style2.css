@@ -1,0 +1,44 @@
+h1{
+    font-family: "Times", serif;
+    font-size:45px;  
+    color:hotpink;
+    text-align: center;
+    text-decoration: underline;
+    
+  
+}
+
+
+
+img{   
+ width: 250px;
+ height: 450px;
+padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+p{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    text-align:center;
+    color:red;
+    
+}
+
+p1{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    text-align:right;
+    color:lightskyblue;
+    
+}
+
+p2{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    text-align:right;
+    color:darkblue;
+    
+}
+
